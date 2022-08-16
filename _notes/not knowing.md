@@ -2,5 +2,7 @@
 title: not knowing
 ---
 
-The difficult to grasp idea that it is okay not to know. The opposite of which is needing to know what is right which implies you are always wrong. No bueno! 
+By default my brain wants to BE SURE that I'm doing it RIGHT. 
+The opposite of this is acceptance that I do not know. 
+Life is easier when you can live in that mindset, with uncertainty.  
 

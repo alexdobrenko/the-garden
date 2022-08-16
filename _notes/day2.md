@@ -1,4 +1,3 @@
-day2.md
 ---
 title: Day 2
 ---
