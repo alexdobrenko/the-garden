@@ -14,4 +14,4 @@ One thing I wonder right off the bat is if I make a reference to a diff page her
 Ok but like, so I'm sitting here and reading this interview I found with a dude named Adam Curtis - [In conversation with Adam Curtis: Part Two])https://www.e-flux.com/journal/33/68302/in-conversation-with-adam-curtis-part-ii/) and its...really good. There is some stuff I would definitely want to, I guess, add to this database? But like, what? And why? I could, I guess, just create a page for every article I read but ...that feels like a lot? But maybe not, idk. 
 -->this might be the kind of thing you figure out over time, with experimentation. 
 
-Ok fine, so I'll do it - 
+(ended this note here - not sure whether to clean that up or leave as is!)
