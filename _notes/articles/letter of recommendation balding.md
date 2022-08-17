@@ -1,5 +1,5 @@
 ---
-title: Letter of Recommendation: Balding by Barrett Swanson
+title: Letter of Recommendation - Balding by Barrett Swanson
 ---
 
 Letter of Recommendation: Balding
