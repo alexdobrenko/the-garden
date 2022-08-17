@@ -2,8 +2,6 @@
 title: Day 2
 ---
 
-# ok so this is the second day
-
 Do I even want to do this daily? I don't know. God not knowing is brutal. But also sort of everything. It is the ultimate thing to accept. That you do not know. So ok, like do I make that a THING? A page: [[not knowing]]. 
 
 I just made the double brackets on it, but now I need to actually go and create a new document called Not Knowing. 
