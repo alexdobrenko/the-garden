@@ -5,7 +5,8 @@ title: Letter of Recommendation - Balding by Barrett Swanson
 Letter of Recommendation: Balding
 
 Author:: Barrett Swanson
-[link](https://www.nytimes.com/2019/01/08/magazine/letter-of-recommendation-balding.html)
+
+[Article link](https://www.nytimes.com/2019/01/08/magazine/letter-of-recommendation-balding.html)
 
 ## thoughts 
 
