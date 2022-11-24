@@ -1,0 +1,2 @@
+targets =($(grep -HRl "garden" .))
+print targets
