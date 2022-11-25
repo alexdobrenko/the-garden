@@ -20,6 +20,10 @@ The idea is to learn out loud, work out loud, whatever. I don't really know what
   Have no idea who I am? Me neither. Some semblance of my 'wow look at his cool stuff' can be found on <a href="http://www.alexdobrenko.com">my website here</a> You can also contact me there. 
 </p>
 
+## Recently Updated Pages
+
+[[bigrealization]] -- 11.25.2022
+
 <style>
   .wrapper {
     max-width: 46em;
